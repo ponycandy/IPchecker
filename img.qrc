@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="car_manager_head_left_pic">img/car_manager_head_left_pic.png</file>
+        <file alias="connect_error">img/connect_error.png</file>
+        <file alias="connect_problem">img/connect_problem.png</file>
+        <file alias="connect_success">img/connect_success.png</file>
+        <file alias="split_line">img/split_line.png</file>
+    </qresource>
+</RCC>
